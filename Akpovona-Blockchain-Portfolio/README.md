@@ -33,13 +33,4 @@ This repository is a curated portfolio for blockchain development showcasing EVM
 ## How to use
 - Each folder contains a README with steps to compile, test, and deploy locally using Hardhat or Anchor.
 - Fill `.env` with your INFURA/Alchemy/RPC keys and private key for deployment scripts.
-- Run `npm install` inside Solidity folders and use `npx hardhat run scripts/deploy.js --network <network>` to deploy.
-
----
-
-If you'd like, I can also:
-- Create a GitHub repo and push this content (I can provide the exact commands for you to run).
-- Replace the placeholder addresses with real deployed contract addresses if you deploy and share them.
-- Add CI scripts for testing and verification.
-
-Good luck — this bundle is meant to get you interview-ready. 👍
+- Run `npm install` inside Solidity folders and use `npx hardhat run scripts/deploy.js --network <network>` to d
