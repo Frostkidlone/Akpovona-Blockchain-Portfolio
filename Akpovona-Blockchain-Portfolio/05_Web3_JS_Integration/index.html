@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>PayVerse Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>PayVerse Demo</h1>
+    <button id="connect">Connect Wallet</button>
+    <div id="account"></div>
+    <div id="balance"></div>
+    <div>
+      <input id="recipient" placeholder="Recipient address" />
+      <input id="amount" placeholder="Amount (ETH)" />
+      <button id="send">Send</button>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/ethers/dist/ethers.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
