@@ -61,3 +61,9 @@ ERC-721 compliant NFT minting contract with metadata hosting and mint UI.
 ### 🧾 Credits
 Built with 💡 by **Frostkidlone**  
 Blockchain Developer • Web3 Innovator • Smart Contract Engineer
+## 📊 GitHub Stats
+
+![Frostkidlone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frostkidlone&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostkidlone&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frostkidlone&theme=tokyonight)
+
